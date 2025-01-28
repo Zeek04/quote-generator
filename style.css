@@ -10,22 +10,22 @@ body{
 #header{
     color: #fff;
     text-align: center;
-    font-size: 45px;
+    font-size: 60px;
     font-weight: bolder;
 }
 
 #subHeader{
     color: #fff;
     text-align: center;
-    font-size: 25px;
+    font-size: 45px;
     margin-top: -25px;
 }
 
-.quote-container p{
+#quote-container p{
     text-align: center;
     color: #fff;
     margin-top: 60px;
-    font-size: 18px;
+    font-size: 25px;
 }
 
 .button-container{
